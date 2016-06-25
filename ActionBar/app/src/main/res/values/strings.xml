@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="settings1">S 1</string>
+    <string name="settings2">S 2</string>
+    <string name="settings3">S 3</string>
+    <string name="settings4">S 4</string>
+    <string name="settings5">S 5 </string>
+</resources>

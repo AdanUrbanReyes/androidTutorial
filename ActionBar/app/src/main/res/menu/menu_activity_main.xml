@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ayan.actionbar.MainActivity"
+    >
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings1"
+        android:orderInCategory="100"
+        android:icon="@drawable/phone"
+        android:showAsAction="ifRoom|withText"
+        />
+    <item
+        android:id="@+id/action_settings2"
+        android:title="@string/settings2"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_settings3"
+        android:title="@string/settings3"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/action_settings4"
+        android:title="@string/settings4"
+        android:orderInCategory="100"
+        android:showAsAction="withText"
+        />
+    <item
+        android:id="@+id/action_settings5"
+        android:title="@string/settings5"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_name"
+        android:showAsAction="always"/>
+</menu>
