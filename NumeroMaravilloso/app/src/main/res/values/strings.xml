@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NumeroMaravilloso</string>
+    <string name="btsegundaactivity">Llamar Segunda Activity</string>
+    <string name="SegundaActivity">Segunda Activity</string>
+    <string name="fragmentA">Fragment A</string>
+</resources>

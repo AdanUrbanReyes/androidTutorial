@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_navegacion"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Navegación" />
+        <item
+            android:id="@+id/nav_busqueda"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Busqueda" />
+        <item
+            android:id="@+id/nav_locales"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Locales" />
+        <item
+            android:id="@+id/nav_servicios"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Servicios" />
+        <item
+            android:id="@+id/nav_informacionGeneral"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Información General" />
+    </group>
+
+    <item android:title="Administración">
+        <menu>
+            <item
+                android:id="@+id/nav_inicioSesion"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Inicio Sesion" />
+        </menu>
+    </item>
+
+</menu>
